@@ -5,6 +5,7 @@ div {
   background-image: url("https://newborniguanas.com/wp-content/uploads/2021/12/gif2_11_image-1.gif");
   background-repeat: no-repeat;
   background-size: contain;
+  background-position: center top;
 }
 html { 
   margin: 0;
